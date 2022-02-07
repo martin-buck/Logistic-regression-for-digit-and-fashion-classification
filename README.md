@@ -1,4 +1,4 @@
-# Logistic-regression-for-digit-and-fashion-classification
+# logistic-regression-for-digit-and-fashion-classification
 Explore how certain hyperparameters and features in a logistic regression model affects image classification 
 
 You can run it in Google Colab!
